@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\bin\TagsAndAttributes.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\bin\TagsAndAttributes.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\bin\TagsAndAttributes.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\obj\Debug\TagsAndAttributes.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\obj\Debug\TagsAndAttributes.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Exercises\TagsAndAttributes\obj\Debug\TagsAndAttributes.pdb
