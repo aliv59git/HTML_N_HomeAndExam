@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\bin\2.Nested.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\bin\2.Nested.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\bin\2.Nested.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\obj\Debug\2.Nested.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\obj\Debug\2.Nested.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\2.Nested\obj\Debug\2.NestedLists.csprojResolveAssemblyReference.cache

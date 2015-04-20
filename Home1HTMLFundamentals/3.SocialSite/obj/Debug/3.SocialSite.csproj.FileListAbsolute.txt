@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\bin\3.SocialSite.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\bin\3.SocialSite.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\bin\3.SocialSite.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\obj\Debug\3.SocialSite.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\obj\Debug\3.SocialSite.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\3.SocialSite\obj\Debug\3.SocialSite.pdb

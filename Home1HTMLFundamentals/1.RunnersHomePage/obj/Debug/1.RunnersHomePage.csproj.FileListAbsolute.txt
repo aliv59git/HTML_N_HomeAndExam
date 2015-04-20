@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\bin\1.RunnersHomePage.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\bin\1.RunnersHomePage.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\bin\1.RunnersHomePage.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\obj\Debug\1.RunnersHomePage.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\obj\Debug\1.RunnersHomePage.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home1HTMLFundamentals\1.RunnersHomePage\obj\Debug\1.RunnersHomePage.pdb
