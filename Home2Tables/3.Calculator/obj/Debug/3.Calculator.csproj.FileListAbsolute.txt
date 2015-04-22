@@ -4,3 +4,9 @@ D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\bin\3.Calculato
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.csprojResolveAssemblyReference.cache
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.dll
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\bin\3.Calculator.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\bin\3.Calculator.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\bin\3.Calculator.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\3.Calculator\obj\Debug\3.Calculator.pdb
