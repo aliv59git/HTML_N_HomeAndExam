@@ -1,0 +1,6 @@
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\bin\1.THMLTable.dll.config
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\bin\1.THMLTable.dll
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\bin\1.THMLTable.pdb
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\obj\Debug\1.THMLTable.csprojResolveAssemblyReference.cache
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\obj\Debug\1.THMLTable.dll
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home2Tables\1.THMLTable\obj\Debug\1.THMLTable.pdb

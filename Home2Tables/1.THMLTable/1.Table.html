@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>1.HTML Tables. FirstItem</title>
+    <meta charset="utf-8"/>
+    <meta name="author" content=""/>
+    <meta name="keywords" content="tables"/>
+    <meta name="description" content=""/>
+    <style>
+        table{
+            font-size:16px;
+        }
+        th{
+            font-style:italic;
+            text-align:center;
+            font-size:1.5em;
+            padding:10px 0;
+        }
+        table.second{
+            text-align:left;
+            border-right:3px solid #CDCDCD;
+            border-bottom:3px solid #CDCDCD;
+            font-weight:600;
+        }
+        table.second td{
+            border-left:3px solid #CDCDCD;
+            border-top:3px solid #CDCDCD;
+            width: 30px;
+            height:20px;
+        }
+        .right{
+            padding-right:3px;
+            text-align:right;
+        }
+        .centre{
+            text-align:center;
+        }
+        .left{
+            padding-left:8px;
+        }
+        img{
+            width:160px;
+         }
+    </style>
+</head>
+<body>
+    <header>
+        
+    </header>
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2">Fresh Fruits</th>
+            </tr>
+        </thead>
+        <tr>
+            <td>It has long been known that a diet <br />that includes at least a fiew <br />servings of fresh fruit every day <br />will help keep you healthy, fit and <br />trim.</td>
+            <td><img src="images/fruits1.jpg" alt="fruits" /></td>
+        </tr>
+    </table>
+    <br />
+    <table class="second">
+        <tr>
+            <td colspan="3">Title goes here</td>
+            <td class="left">A</td>
+            <td class="right">B</td>
+        </tr>
+        <tr>
+            <td rowspan="3" id="left">C</td>
+            <td class="left">D</td>
+            <td class="left">E</td>
+            <td class="left">F</td>
+            <td class="right">G</td>
+        </tr>
+        <tr>
+            <td class="left">H</td>
+            <td class="centre" colspan="2">I</td>
+            <td class="right" style="padding-top:30px" rowspan="2">J</td>
+        </tr>
+        <tr>
+            <td class="left">K</td>
+            <td class="left">L</td>
+            <td class="left">M</td>
+        </tr>
+        <tr>
+            <td class="right" >N</td>
+            <td class="centre" colspan="4">O</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
