@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\bin\1.Refactoring.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\bin\1.Refactoring.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\bin\1.Refactoring.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\obj\Debug\1.Refactoring.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\obj\Debug\1.Refactoring.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\1.Refactoring\obj\Debug\1.Refactoring.pdb

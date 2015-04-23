@@ -1,0 +1,5 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\2.StudentSystem\bin\2.StudentSystem.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\2.StudentSystem\bin\2.StudentSystem.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\2.StudentSystem\bin\2.StudentSystem.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\2.StudentSystem\obj\Debug\2.StudentSystem.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home4SemanticHTML\2.StudentSystem\obj\Debug\2.StudentSystem.pdb
