@@ -4,3 +4,9 @@ D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.csprojResolveAssemblyReference.cache
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.dll
 D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.pdb

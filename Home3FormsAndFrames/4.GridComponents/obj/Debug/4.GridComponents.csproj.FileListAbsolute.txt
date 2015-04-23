@@ -1,0 +1,6 @@
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\bin\4.GridComponents.dll.config
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\bin\4.GridComponents.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\bin\4.GridComponents.pdb
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\obj\Debug\4.GridComponents.csprojResolveAssemblyReference.cache
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\obj\Debug\4.GridComponents.dll
+F:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\4.GridComponents\obj\Debug\4.GridComponents.pdb
