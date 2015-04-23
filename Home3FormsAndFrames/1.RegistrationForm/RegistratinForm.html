@@ -1,0 +1,153 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Regisration form</title>
+    <meta charset="utf-8"/>
+    <meta name="keywords" content=""/>
+    <meta name="author" content=""/>
+    <meta name="description" content=""/>
+    <style>
+        table{
+            border: 2px solid black;
+            border-collapse:collapse;
+            background-color:#FEFEFE;
+        }
+        .first{
+            width:150px;
+            text-align:center;
+            font-weight:bold;
+        }
+        .second{
+            width:280px;
+        }
+        td{
+            border: 1pt solid #b5b4b4;
+            border-collapse:collapse;
+        }
+        .name{
+            width:254px;
+        }
+        .city{
+            width:161px;
+        }
+        .state{
+            width:70px;
+        }
+        .code1{
+            width:40px;
+        }
+        .code2{
+            width:150px;
+        }
+        tfoot tr td{
+            background-color:#87CEEB;
+            text-align:center;
+        }
+        .submitReset{
+            background-color:#E6E6E6;
+        }
+    </style>
+</head>
+<body>
+    <form name="RegistrationForm" method="post" action="#" >
+        <table>
+            <colgroup>
+                <col class="first" />
+                <col class="second" />
+            </colgroup>
+            <tbody>
+                <tr>
+                    <td class="first">First Name</td>
+                    <td class="second"><input type="text" class="name" name="fName" /></td>
+                </tr>
+                <tr>
+                    <td class="first">Last Name</td>
+                    <td class="second"><input type="text" class="name" name="lName" /></td>
+                </tr>
+                <tr>
+                    <td class="first">Address</td>
+                    <td class="second"><textarea cols="31" rows="4"></textarea></td>
+                </tr>
+                <tr>
+                    <td class="first">City</td>
+                    <td class="second">
+                        <input type="text" name="city" class="city" value=" " />
+                        <label for="state">State</label>
+                        <input type="text" class="state" value="" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Zip/Postal Code</td>
+                    <td class="second"><input type="text" class="state" name="postal code" value=" " /></td>
+                </tr>
+                <tr>
+                    <td class="first">Country</td>
+                    <td class="second">
+                        <select class="city" name="country">
+                            <option selected="selected" value="BG">Bulgaria</option>
+                            <option value="DE">Germany</option>
+                            <option value="GB">Englnd</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Phone(country code, <br />area code, number)</td>
+                    <td class="second">
+                        (+<input type="text" class="code1" name="country code" value=" " />)
+                        <input type="text" class="code1" name="area code" value="" />
+                        <input type="text" class="code2" name="number" value="" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">E-mail</td>
+                    <td class="second">
+                        <input type="text" value="" class="name" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Birth date</td>
+                    <td class="second">
+                        <input type="text" value="дд.мм.гггг г." class="city" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Gender</td>
+                    <td class="second">
+                        <select name="gender">
+                            <option selected="selected">Male</option>
+                            <option>Female</option>
+                            <option>Other</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Sarting date</td>
+                    <td class="second">
+                        <input type="radio" name="radioButton" value="" />
+                        <label>Spring 2015</label>
+                        <input type="radio" name="radioButton" value="" />
+                        <label>Summer 2015</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="first">Comments/Questions</td>
+                    <td class="second">
+                        <textarea name="comments" cols="31" rows="5"></textarea>
+                    </td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">
+                        <input type="submit" class="submitReset" value="Submit" />
+                        <input type="reset" class="submitReset" value="Clear This Form" />
+                    </td>
+                </tr>
+            </tfoot>
+        </table>
+    </form>
+
+
+
+</body>
+</html>

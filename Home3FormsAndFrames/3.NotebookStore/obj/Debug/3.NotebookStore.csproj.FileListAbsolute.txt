@@ -1,0 +1,6 @@
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.dll.config
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.dll
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\bin\3.NotebookStore.pdb
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.csprojResolveAssemblyReference.cache
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.dll
+D:\VS\HTML_N\HTML_My\HTML_N_HomeAndExam\Home3FormsAndFrames\3.NotebookStore\obj\Debug\3.NotebookStore.pdb

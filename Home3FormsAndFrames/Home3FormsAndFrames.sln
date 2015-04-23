@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.RegistrationForm", "1.RegistrationForm\1.RegistrationForm.csproj", "{44FE0186-04B5-44A4-A388-3BB2F3C8AF6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.UniversityGrid", "2.UniversityGrid\2.UniversityGrid.csproj", "{79249219-DCFA-4443-919E-8960DCAF1822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.NotebookStore", "3.NotebookStore\3.NotebookStore.csproj", "{36D62D5D-7369-4C35-A40C-39152895C60E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{44FE0186-04B5-44A4-A388-3BB2F3C8AF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44FE0186-04B5-44A4-A388-3BB2F3C8AF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44FE0186-04B5-44A4-A388-3BB2F3C8AF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79249219-DCFA-4443-919E-8960DCAF1822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79249219-DCFA-4443-919E-8960DCAF1822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79249219-DCFA-4443-919E-8960DCAF1822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79249219-DCFA-4443-919E-8960DCAF1822}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36D62D5D-7369-4C35-A40C-39152895C60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D62D5D-7369-4C35-A40C-39152895C60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D62D5D-7369-4C35-A40C-39152895C60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D62D5D-7369-4C35-A40C-39152895C60E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
